@@ -6,4 +6,4 @@ https://canva.link/4ovr1kmoz5uwe1q (Power Automate)
 https://github.com/afifhusman/PPTraining/blob/main/Lab1_Claims_Intake_App_Step_by_Step_Guide.pdf
 
 # Lab 2 Guide
-https://github.com/afifhusman/PPTraining/blob/main/Lab2_Claims_Approval_Flow_Step_by_Step_Guide.pdf
+https://github.com/afifhusman/PPTraining/blob/main/Lab2_Power_Automate_Step_by_Step_Guide.pdf
